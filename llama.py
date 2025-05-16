@@ -1,5 +1,3 @@
-# ollama_chat.py
-
 import ollama
 from memorymanager import MemoryManager
 
